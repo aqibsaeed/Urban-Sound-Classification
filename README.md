@@ -2,7 +2,7 @@
 
 This reporsitory contains python notebook for the following [[blog post]] (http://aqibsaeed.github.io/2016-09-03-urban-sound-classification/). 
 
-Following libraries are required to run the code provided in the notebook:
+Python 2.7 is used during development and following libraries are required to run the code provided in the notebook:
 * Tensorflow
 * Numpy
 * Matplotlib
