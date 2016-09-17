@@ -1,6 +1,6 @@
 # Urban Sound Classification 
 
-[[Python notebook]] (https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20NN.ipynb) for blog post [[Urban Sound Classification using Neural Network]] (http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/). 
+[Python notebook] (https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20NN.ipynb) for blog post [Urban Sound Classification using Neural Network] (http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/). 
 
 ![Spectrogram](https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/urban-sound-spectrogram.png)
 
