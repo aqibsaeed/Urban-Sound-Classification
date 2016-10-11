@@ -4,6 +4,10 @@
 
 [Python notebook] (https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20CNN.ipynb) for blog post [Urban Sound Classification using Convolutional Neural Network] (http://aqibsaeed.github.io/2016-09-24-urban-sound-classification-part-2/). 
 
+<p align="center">
+<img src="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/urban-sound-spectrogram.png" width=459 />
+</p>
+
 ### Tools Required
 
 Python 2.7 is used during development and following libraries are required to run the code provided in the notebook:
