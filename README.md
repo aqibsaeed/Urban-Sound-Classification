@@ -1,15 +1,13 @@
-# Urban Sound Classification 
+## Urban Sound Classification 
 
-[Python notebook] (https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20NN.ipynb) for blog post [Urban Sound Classification using Neural Network] (http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/). 
+<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20NN.ipynb">
+Python notebook </a> for blog post <a href="http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/">Urban sound classification using Neural Network</a>.</p>
 
+<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20CNN.ipynb">Python notebook</a> for blog post <a href="http://aqibsaeed.github.io/2016-09-24-urban-sound-classification-part-2/">Urban sound classification using Convolutional Neural Network</a>.</p>
 
-[Python notebook] (https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20CNN.ipynb) for blog post [Urban Sound Classification using Convolutional Neural Network] (http://aqibsaeed.github.io/2016-09-24-urban-sound-classification-part-2/). 
+<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20RNN.ipynb">Urban sound classification using RNN</a>.</p>
 
-[Python notebook] (https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20RNN.ipynb) with RNN implementation for Urban Sound Classification. 
-
-<p align="center">
-<img src="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/urban-sound-spectrogram.png"/>
-</p>
+<p align="center"><img src="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/urban-sound-spectrogram.png"/></p>
 
 ### Tools Required
 
