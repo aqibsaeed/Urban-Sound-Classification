@@ -4,14 +4,14 @@
 
 <ul>
 <li>
-<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20NN.ipynb">
+<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Feedforward%20Neural%20Network.ipynb">
 Feedforward Network</a><a href="http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/"> (Blogpost)</a></p>
 </li>
 <li>
-<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20CNN.ipynb">Convolutional Network</a> <a href="http://aqibsaeed.github.io/2016-09-24-urban-sound-classification-part-2/"> (Blogpost)</a></p>
+<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Convolutional%20Neural%20Network.ipynb">Convolutional Network</a> <a href="http://aqibsaeed.github.io/2016-09-24-urban-sound-classification-part-2/"> (Blogpost)</a></p>
 </li>
 <li>
-<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Urban%20Sound%20Classification%20using%20RNN.ipynb">Recurrent Network</a></p>
+<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Recurrent%20Neural%20Network.ipynb">Recurrent Network</a></p>
 </li>
 </ul>
 
